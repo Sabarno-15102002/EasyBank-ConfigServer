@@ -1,0 +1,9 @@
+build:
+  version: 1.0.0
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Sabarno Biswas - Developer"
+    email: "sabarnobiswas@gmail.com"
+  onCallSupport:
+    - (+91) 8420241803

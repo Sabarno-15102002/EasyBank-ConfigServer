@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Sabarno Biswas - QA Lead"
+    email: "sabarno@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
