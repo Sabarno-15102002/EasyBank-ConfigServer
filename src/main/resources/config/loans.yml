@@ -1,5 +1,5 @@
 build:
-  version: 1.4.0
+  version: 1.5.0
 loans:
   message: "Welcome to EazyBank lans related local APIs "
   contactDetails:
